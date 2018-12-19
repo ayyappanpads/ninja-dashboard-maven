@@ -1,0 +1,329 @@
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC+Aj1WsRCFy2O8I76Dy4XDGXdOsb+sUV9qd25lBt2aYzTmHSohh33mncaM4Dfx5/YDHUcRxziW922u7tKDjMEXpxyJWRa531a/4AKUx4R+7QGhxe8MimcWVq8LztBcjIBCOuSfdfkf9nrZ8Y9eWDN/6Nz5BzhLLGATdOe57r4q6uMCQgl17oAtFvNqwdxzvssopMG9jeveUmGDIc7UaMXWwDSJwFQRxhIDozz+xrXbQ+n5cMGW+qJwrXdWOs5/A94mGUQzFzQkBYHI2jwyrWnwq+vMBKVrKXQuvYIJc/hQ3Rol9C5CgQKQhRaERuxjAlCcS/c8gux3gVZ3qnHeVGBYMg3ImlKvyK4kVQ0iy3nn2t0tJt5BUESt3/cdHeknZfmWvHl6ZzYJPfWZoN8sFlX63uHW5ArHnj/vlKJtzvA3hfyXDI13KOO8wwQJ8u/1H1Ccq9Two7ZArYSK/GL845OhrZdtZasQxrg/Pxf3E9HJvF+ODxVvh5Bp2iQn8w+DXSlAATC7C/Rr5RQPa09ofclNudk12A251cPHpVuQsYEqZ8uZ9yHBxlXLIljV/qrhj4NMaZLnZdGX5gfWBbDupIMaHq4oQgIjSss+WZH/U22w1jnk6NubtiEy2s7mPZpT/bPQeIVdRH6woOSCDcqTdeJd6TpE3cMtLHuBVa8fUMdN8w== centos@ip-10-0-1-182.us-west-2.compute.internal
+
+
+git@github.com:ayyappanpads/sample-java-programs.git
+
+  git config --global push.default simple
+
+     1  yum update -y
+    2  sudo yum update -y
+    3  sudo yum update -y
+    4  sudo yum install -y git
+    5  git --version
+    6  git  config --global user.name "Ayyappan"
+    7  git  config --global user.email ayyappan.padalingam@gmail.com
+    8  ssh-keygen -t rsa -b 4096
+    9  cat /home/centos/.ssh/id_rsa.pub.
+   10  cat /home/centos/.ssh/id_rsa.pub
+   11  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC+Aj1WsRCFy2O8I76Dy4XDGXdOsb+sUV9qd25lBt2aYzTmHSohh33mncaM4Dfx5/YDHUcRxziW922u7tKDjMEXpxyJWRa531a/4AKUx4R+7QGhxe8MimcWVq8LztBcjIBCOuSfdfkf9nrZ8Y9eWDN/6Nz5BzhLLGATdOe57r4q6uMCQgl17oAtFvNqwdxzvssopMG9jeveUmGDIc7UaMXWwDSJwFQRxhIDozz+xrXbQ+n5cMGW+qJwrXdWOs5/A94mGUQzFzQkBYHI2jwyrWnwq+vMBKVrKXQuvYIJc/hQ3Rol9C5CgQKQhRaERuxjAlCcS/c8gux3gVZ3qnHeVGBYMg3ImlKvyK4kVQ0iy3nn2t0tJt5BUESt3/cdHeknZfmWvHl6ZzYJPfWZoN8sFlX63uHW5ArHnj/vlKJtzvA3hfyXDI13KOO8wwQJ8u/1H1Ccq9Two7ZArYSK/GL845OhrZdtZasQxrg/Pxf3E9HJvF+ODxVvh5Bp2iQn8w+DXSlAATC7C/Rr5RQPa09ofclNudk12A251cPHpVuQsYEqZ8uZ9yHBxlXLIljV/qrhj4NMaZLnZdGX5gfWBbDupIMaHq4oQgIjSss+WZH/U22w1jnk6NubtiEy2s7mPZpT/bPQeIVdRH6woOSCDcqTdeJd6TpE3cMtLHuBVa8fUMdN8w== centos@ip-10-0-1-182.us-west-2.compute.internal
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDAxIGSZtan/0ojfGh1PnsKDsrbqQkJxLl9cKwPa0BE5PifdmcMSo5vc4ZeiSYIj4TkRVda4yY8jRli0d4f02icNYQuEGBQc4ZLWQjhPyqRNcIbS9D4X6WJP6pI3WvmQZRzEwV/NWmqI1HYCLMIteuQOLh5Unl/K5TRj+bg/1L+bcvYPo8P8FhYj45MvXbe3YcWaT9jsoFhBzYqd3UsQGl6QTB4ZZ8zR2e7d297SK2HaP/TnL/04KxziY+WsdwJkNDs2NKithROa74lyyqvp7ZMyg0ZGey29Qm80G+EJSP6GnDi+SgY2vo7xAz69IvbdeCD+im8Vdo0isVb6gagtUTf/HYla2V2P2xTwkPQRTCK137DLTf7PDtfDVRgUrbfGkC8mO0i4nJ6BLuRu+OA3Tu558J/HlgqxMHgPMtqtYcPKEv4gPY/Boqh/k46njXN+Oq9/6SOGhnPKLGOAPuxSHd2Fu2f2Qc1qIVEdd7buKfdjTOa+oZtXP9GZvNK1keaZZrINDgZi9fNN3gNXHg51/YzHp3UTxeMfJmQrMn0wIrLx/QgvnY4metqwZjNH19rLG2pv2uflGvYvN5rxu+TJoX8dTpKqTmzm6RgpliZHiZ7TIzdEZ9aUkh2xJRGOoSdmhk+iGk5KNgVDiMlpskBghTiiEOaakblGlCRi5DTT0UAfQ== centos@ip-10-0-1-229.us-west-2.compute.internal
+   12  ls
+   13  cd  /home/centos/
+   14  ls
+   15  cd .ssh
+   16  ls
+   17  cd
+   18  cd ~
+   19  git clone git@github.com:ayyappanpads/sample-java-programs.git
+   20  ls -al
+   21  cd sample-java-programs
+   22  git checkout -b mybranch
+   23  git status
+   24  vi ayyappan.txt
+   26  git status
+   27  git add .
+   28  git status
+   29  git commit -m "New code added"
+   30  git push
+   31  git config --global push.default simple
+   32  git push --set-upstream origin mybranch
+   33  history | grep git > ~/siva.samp
+   34  history
+**************************************************
+Gradle and Jenkins :
+
+1.Install Java Linux Box----sudo yum -y install unzip java-1.8.0-openjdk
+2.sudo yum update -y
+3.sudo yum -y install unzip java-1.8.0-openjdk
+4.java -version
+sudo yum -y removeunzip java-1.8.0-openjdk
+
+Fork means-Source code from Git moved to my folder
+Download Gradle plugin and put in Source in Git
+build.gradle,gradlew,gradlew.bat
+5..Build the code in Gradle--->./ gradlew init
+6.vi build.gradle
+7../ gradlew build
+**************************************************
+plugins { id "com.moowork.node" version "1.2.0"}
+node {
+        download=true
+        version='9.11.1'
+        npmVersion='5.6.0'
+}
+task build
+task zip (type: Zip) {
+from ('.'){
+        include "*"
+        include "bin/**"
+        include "data/**"
+        include "node_modules/**"
+        include "public/**"
+        include "routes/**"
+        include "views/**"
+}
+destinationDir(file("dist"))
+baseName "sampleapp"
+}
+build.dependsOn zip
+zip.dependsOn npm_build
+npm_build.dependsOn npmInstall
+*********************************************
+install jenkins
+sudo yum -y install epel-release
+sudo yum install -y wget
+sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat-stable/jenkins.repo
+sudo rpm --import https://jenkins-ci.org/redhat/jenkins-ci.org.key
+sudo yum -y install jenkins-2.121.1
+sudo systemctl enable jenkins
+sudo systemctl start  jenkins
+
+go to http://54.190.176.203:8080/login?from=%2F
+
+copy the the path and put in putty
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+pwd-7f8a63d038a84f01a108a4b28bf67dd1d
+78eece4edcc64935adeaf69e8bc94a9e
+install suggested plugins
+http://54.190.176.203:8080
+
+Git generated for jenkins access token
+e9c02ac080c14b4bb3a08f6a53b014fd5e7a25de
+d
+f1434464b15c479e891abe9e046a301c
+*******************************************************
+
+Go to Manage Genkins
+
+Configure System
+Go to Git Hub 
+Click Add Genkins 
+kind-secret text
+secret will generate from Git
+Do test Connection
+
+Go to Git
+Developer Settings
+Personal access tokens
+admin:repo_hook select all
+give token descrition and generate token
+
+Maven
+sudo yum install -y get maven
+mvn --version
+
+12-Dec-2018
+Pipeline code to write in Git new file
+pipeline {
+  agent any 
+  stages {
+  stage ('Build'){
+  steps {
+    echo 'Running Build Automation'
+    sh './gradlew build --no-daemon'
+    archiveArtifacts artifacts: 'dist/sampleapp.zip'
+    }
+   }
+  }
+
+Pipeline as code:
+pipeline {
+  agent any
+  stages {
+    stage ('Checkout'){
+      steps {
+        checkout scm
+      }}
+  stage ('Build'){
+  steps {
+    echo 'Running Build Automation'
+    sh './gradlew build --no-daemon'
+    archiveArtifacts artifacts: 'dist/sampleapp.zip'
+    }
+   }
+  }
+}
+
+Maven pipeline code
+pipeline {
+ agent any
+stages {
+ stage('CodeCheckout') {
+ steps {
+ script {
+    checkout scm
+     def mvnHome = tool 'maven-3'
+     def javaHome = tool 'JAVA_1.8'
+     }
+    }
+   }
+   
+ stage('build customer app code') { 
+ steps {
+  script {
+        def mvnHome = tool 'maven-3'
+        def javaHome = tool 'JAVA_1.8'
+        sh 'mvn clean install'
+    }
+  }
+ }
+}
+}
+
+Following process is for CentOS to made JENKINS_USER as root
+1. Open up the this script (using VIM or other editor):
+
+sudo vi /etc/sysconfig/jenkins
+2. Find this $JENKINS_USER and change to “root”:
+
+$JENKINS_USER="root"
+3. Then change the ownership of Jenkins home, webroot and logs:
+
+sudo chown -R root:root /var/lib/jenkins
+sudo chown -R root:root /var/cache/jenkins
+sudo chown -R root:root /var/log/jenkins
+4) Restart Jenkins and check the user has been changed:
+
+*******************************************
+13-Dec-2018-Dockers
+sudo yum install docker
+
+14 Dec
+mvn package
+
+  stage('docker images code') { 
+ steps {
+  script {
+       sh 'docker build -t rakeshraheja89/project .'
+    sh  'docker run -p 8081:3000 -d rakeshraheja89/project'
+       sh "docker login -u=$env.user -p=$env.password"
+        sh "docker push rakeshraheja89/project"
+        sh 'docker run rakeshraheja89/project'
+        
+    }
+  }
+ }
+}
+}
+
+
+
+18-Dec-2018****************************************
+ 1  sudo yum install -y git
+    2  ssh-keygen -t rsa -b 4096
+    4  cat /home/centos/.ssh/id_rsa.pub
+    5  git config --global user.name "ayyappanpads"
+    6  git config --global user.email "ayyappan.padalingam@gmail.com"
+    7  sudo yum install docker
+    8  sudo systemctl start docker
+    9  sudo systemctl status docker
+   10  sudo systemctl enable docker
+   11  sudo systemctl status docker
+   12  docker --version
+   13  ls -lt
+   16  mkdir imagecontainer
+   17  cd imagecontainer
+   18  docker images
+   19  sudo docker images
+   20  vi Dockerfile
+opened-
+from jenkinsci/jenkins:lts
+
+USER root
+RUN apt-get update -qq \
+    && apt-get install -qqy apt-transport-https ca-certificates curl gnupg2 software-properties-common
+RUN curl -fsSL https://download.docker.com/linux/debian/gpg | apt-key add -
+RUN add-apt-repository \
+   "deb [arch=amd64] https://download.docker.com/linux/debian \
+   $(lsb_release -cs) \
+   stable"
+RUN apt-get update  -qq \
+    && apt-get install docker-ce=17.12.1~ce-0~debian -y
+RUN usermod -aG docker jenkins
+
+Esc+:wq
+
+   21  ls
+   22  sudo docker  build -t ayyappanpads/18decjenkins1 .
+   23  docker images
+   24  sudo docker images
+   25  sudo docker run sudo docker run -p 8080:8080 -v /var/run/docker.sock:var/run/docker.sock -d ayyappanpads/18decjenkins1
+   26  sudo docker run  -p 8080:8080 -v /var/run/docker.sock:var/run/docker.sock -d ayyappanpads/18decjenkins1
+   27  sudo docker run  -p 8080:8080 -v /var/run/docker.sock:/var/run/docker.sock -d ayyappanpads/18decjenkins1
+   28  sudo docker ps
+   29  sudo docker exec -it a5891cbffb88 bash
+   30  docker images
+   31  sudo docker images
+   32  udo docker ps
+   33  sudo docker ps
+   34  sudo docker stop edef1b18b4a5
+   35  sudo docker stop 80ad2ff8498c
+   36  sudo docker stop e7a953725d9c
+   37  sudo docker ps
+   38  sudo docker stop 3492339ed451
+   39  docker login --help
+   40  sudo docker ps
+   41  sudo docker stop 17c2de5879ac
+   42  sudo docker ps
+   43  sudo docker stop 1527a1bd820f
+   44  history
+
+
+pipeline {
+ agent any
+stages {
+ stage('CodeCheckout') {
+ steps {
+ script {
+    checkout scm  
+    sh 'sudo apt install openjdk-8-jdk'
+     }
+    }
+   }
+   
+ stage('build customer app code') { 
+ steps {
+  script {
+        sh 'sudo apt install -y maven'
+        sh 'mvn clean install'
+    }
+  }
+ }
+
+ stage('Junit Test') {
+            steps {
+                sh 'mvn test'
+            }
+            post {
+                always {
+                    junit 'target/surefire-reports/*.xml'
+                }
+            }
+        }
+ 
+  stage('docker images code') { 
+ steps {
+  script {
+       sh 'sudo docker build -t ayyappanpads/18decjenkins2 .'
+        sh  'sudo docker container run -p 3000:8090 -v /var/run/docker.sock:/var/run/docker.sock -d ayyappanpads/18decjenkins2'
+       sh "sudo docker login --username $env.username --password $env.password"
+        sh "sudo docker push ayyappanpads/18decjenkins2"
+        sh 'sudo docker run ayyappanpads/18decjenkins2'
+        
+    }
+  }
+ }
+}
+}
